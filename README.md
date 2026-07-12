@@ -36,6 +36,33 @@ This repository contains beginner Python projects focused on Python programming 
 
 ---
 
+---
+
+## 3. Phishing Email Analyzer
+
+**Description:**
+
+- Analyzes emails or messages for common phishing indicators.
+- Detects suspicious keywords.
+- Identifies website links and shortened URLs.
+- Flags urgent or threatening language.
+- Calculates a phishing risk score.
+- Classifies messages as:
+  - Appears Safe
+  - Suspicious
+  - Likely Phishing
+
+**Skills:**
+
+- Python
+- String Handling
+- Conditional Statements
+- Threat Analysis
+- Phishing Detection
+- Cybersecurity Awareness
+- Risk Assessment
+
+
 ## Technologies Used
 - Python 3
 
